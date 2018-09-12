@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author aades
- *
- */
-package pkgTest;
